@@ -5,7 +5,10 @@
   "type": "module",
   "author": "Omar-Handouk <omar.handouk@ibm.com>",
   "license": "MIT",
+  "private": false,
   "dependencies": {
+    "chalk": "^5.0.1",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "express-graphql": "^0.12.0",
