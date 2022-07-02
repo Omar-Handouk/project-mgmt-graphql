@@ -6,6 +6,9 @@
   "author": "Omar-Handouk <omar.handouk@ibm.com>",
   "license": "MIT",
   "private": false,
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "chalk": "^5.0.1",
     "cors": "^2.8.5",
